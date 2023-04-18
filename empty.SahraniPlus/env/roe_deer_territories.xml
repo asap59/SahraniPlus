@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="4289396735">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7360" z="16131.4" r="200"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7691.43" z="16771.4" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7040" z="16782.9" r="100"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6948.57" z="16217.1" r="100"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7742.86" z="16251.4" r="100"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7411.43" z="16971.4" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7160" z="15771.4" r="100"/>
+    </territory>
+    <territory color="4289396479">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="16670" z="13030" r="300"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="16110" z="13320" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="15870" z="13550" r="100"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="15970" z="12780" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="16480" z="12420" r="100"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="17150" z="12820" r="100"/>
+    </territory>
+    <territory color="4289396735">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="14056.4" z="16095.7" r="200"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13945" z="16885" r="150"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="13635" z="16405" r="100"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="14465" z="16395" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="14490" z="16045" r="100"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="14970" z="15950" r="100"/>
+    </territory>
+</territory-type>
