@@ -54,9 +54,5 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<file name="zmb_types.xml" type="types" />
 	
 	</ce>
-	<ce folder="Mods">
-	<file name="AWS.xml" type="types" />
-	<file name="sbagz.xml" type="types" />
-	<file name="wind.xml" type="types" />
-	</ce>
+	
 </economycore>
