@@ -90,6 +90,7 @@
     <valueflags>
         <value name="Tier1"/>
         <value name="Tier2"/>
+        <value name="TierParaiso"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
         <value name="Tier5"/>
