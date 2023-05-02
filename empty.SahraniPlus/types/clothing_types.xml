@@ -1947,6 +1947,7 @@
         <usage name="Farm"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
+        <value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
         <value name="Tier5"/>
@@ -1981,6 +1982,7 @@
         <usage name="Farm"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
+        <value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
         <value name="Tier5"/>
@@ -1998,6 +2000,7 @@
         <usage name="Farm"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
+        <value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
         <value name="Tier5"/>

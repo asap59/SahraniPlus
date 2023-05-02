@@ -955,4 +955,45 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
+    <type name="sp_LeeEnfield_Civ">
+        <nominal>2</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>0</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
+        <value name="TierParaiso"/> <!--Special Tier specifically for Paraiso loot-->
+    </type>
+    <type name="Sara_Mosin9130">
+        <nominal>2</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>0</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
+        <value name="TierParaiso"/> <!--Special Tier specifically for Paraiso loot-->
+    </type>
+    <type name="Sara_SKS">
+        <nominal>2</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>0</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+    </type>
 </types>
